@@ -1,0 +1,6 @@
+{:description "FIXME: write a description"
+ :data-fn sohalt.clerk-template/data-fn
+ :transform
+ [["build" ""
+   {"deps.tmpl" "deps.edn"}
+   :only]]}
